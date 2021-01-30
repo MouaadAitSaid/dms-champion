@@ -1,0 +1,22 @@
+{
+  "name": "dms-champion",
+  "version": "1.0.0",
+  "description": "Dms Discord bot Source Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MouaadAitSaid/dms-champion.git"
+  },
+  "author": "Mouaad AIT SAID <aitsaidmouaadoff@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MouaadAitSaid/dms-champion/issues"
+  },
+  "homepage": "https://github.com/MouaadAitSaid/dms-champion#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
